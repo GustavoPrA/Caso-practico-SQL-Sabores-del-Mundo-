@@ -33,7 +33,7 @@ Curiosamente, se identificó que el **primer y último platillo pedido en el per
 
 ---
 
-💡 *Este análisis busca aportar a una toma de decisiones informada y beneficiosa para la gestión del restaurante **Sabores del Mundo***.
+ *Este análisis busca aportar a una toma de decisiones informada y beneficiosa para la gestión del restaurante **Sabores del Mundo***.
 
 
 
