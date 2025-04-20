@@ -2,12 +2,12 @@
 
 Se realizaron diversas consultas utilizando lenguaje SQL sobre el restaurante **"Sabores del Mundo"** con el objetivo de analizar el comportamiento de sus productos y apoyar la toma de decisiones estratégicas.
 
-## 🎯 Objetivo
+## Objetivo
 
 Identificar cuáles son los productos del menú que han tenido mayor aceptación entre los clientes, así como aquellos con menor popularidad.  
 Además, se buscó extraer información relevante para optimizar la gestión del restaurante.
 
-## 📊 Resultados del Análisis
+## Resultados del Análisis
 
 A partir del análisis exploratorio, se determinó que el restaurante cuenta con **32 productos** en su menú.  
 El producto con **mayor precio** es el ítem con ID `130`: *Shrimp Scampi*, de la categoría *Italian*, con un costo de **$19.95**.  
@@ -22,7 +22,7 @@ Estas corresponden a los *Order ID* `440`, `2675`, `3473`, `4305` y `443`.
 Según los datos disponibles, la **primera transacción** se registró el **01/01/2023** y la **última** el **31/03/2023**.  
 Durante los primeros cinco días de enero, se alcanzaron **702 transacciones**, lo cual refleja una alta demanda inicial.
 
-## 🔍 Análisis Complementario
+## Análisis Complementario
 
 Adicionalmente, se llevaron a cabo consultas complementarias para identificar variables que puedan aportar valor en el proceso de toma de decisiones.
 
